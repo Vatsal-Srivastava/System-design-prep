@@ -8,7 +8,7 @@ Each concept is managed through Spring profiles — allowing you to run one impl
 
 In the application.properties file, you’ll find:
 
-# spring.profiles.active=strategydemo
+\# spring.profiles.active=strategydemo
 spring.profiles.active=singletondemo
 
 
